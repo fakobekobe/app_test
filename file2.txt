@@ -1,0 +1,13 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Notre titre</title>
+	</head>
+	<body>
+		<div>
+			<p>
+				Le contenu de mon texte.
+			</p>
+		</div>
+	</body>
+</html>
